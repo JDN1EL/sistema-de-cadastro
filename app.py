@@ -1,1 +1,1 @@
-print("rodando o sietma dde gerenciamoento de jogos")
+print("rodando o sietma de gerenciamoento de jogos")
